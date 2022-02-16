@@ -50,3 +50,8 @@ body {
 .pokemon h2 {
   text-align: center;
 }
+
+.pokemon .like-image {
+  height: 30px;
+  width: 40px;
+}
